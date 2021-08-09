@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.exe
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.deps.json
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.runtimeconfig.json
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.runtimeconfig.dev.json
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.dll
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.pdb
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.AssemblyInfo.cs
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.dll
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.pdb
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.genruntimeconfig.cache

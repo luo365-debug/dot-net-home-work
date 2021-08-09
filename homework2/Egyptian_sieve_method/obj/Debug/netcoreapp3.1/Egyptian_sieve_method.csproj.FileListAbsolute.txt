@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\bin\Debug\netcoreapp3.1\Egyptian_sieve_method.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\bin\Debug\netcoreapp3.1\Egyptian_sieve_method.deps.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\bin\Debug\netcoreapp3.1\Egyptian_sieve_method.runtimeconfig.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\bin\Debug\netcoreapp3.1\Egyptian_sieve_method.runtimeconfig.dev.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\bin\Debug\netcoreapp3.1\Egyptian_sieve_method.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\bin\Debug\netcoreapp3.1\Egyptian_sieve_method.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\obj\Debug\netcoreapp3.1\Egyptian_sieve_method.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\obj\Debug\netcoreapp3.1\Egyptian_sieve_method.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\obj\Debug\netcoreapp3.1\Egyptian_sieve_method.AssemblyInfo.cs
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\obj\Debug\netcoreapp3.1\Egyptian_sieve_method.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\obj\Debug\netcoreapp3.1\Egyptian_sieve_method.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\obj\Debug\netcoreapp3.1\Egyptian_sieve_method.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Egyptian_sieve_method\obj\Debug\netcoreapp3.1\Egyptian_sieve_method.genruntimeconfig.cache

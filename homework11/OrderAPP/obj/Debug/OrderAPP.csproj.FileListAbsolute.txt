@@ -1,0 +1,70 @@
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\bin\Debug\OrderAPP.exe.config
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\bin\Debug\OrderAPP.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\bin\Debug\OrderAPP.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.OrderAPP.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.Properties.Resources.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.FormAdd.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.FormDetails.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\OrderAPP.exe.config
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\OrderAPP.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\OrderAPP.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\MySql.Data.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\Zstandard.Net.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\MySql.Data.xml
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\Interop.EnvDTE.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\Interop.VSLangProj.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\Interop.VSLangProj2.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.OrderAPP.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.FormAdd.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.FormDetails.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.Properties.Resources.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.csproj.CopyComplete
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.pdb
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.csproj.AssemblyReference.cache
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\Interop.EnvDTE.dll
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\Interop.VSLangProj.dll
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\Interop.VSLangProj2.dll
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.csproj.ResolveComReference.cache
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.OrderAPP.resources
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.FormAdd.resources
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.FormDetails.resources
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.Properties.Resources.resources
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.csproj.GenerateResource.cache
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.csproj.CoreCompileInputs.cache
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.exe
+D:\WHU_study\软件构造基础\dot-net-home-work\homework11\OrderAPP\obj\Debug\OrderAPP.pdb

@@ -1,0 +1,24 @@
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\bin\Debug\OrderAPP.exe.config
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\bin\Debug\OrderAPP.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\bin\Debug\OrderAPP.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.OrderAPP.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.Properties.Resources.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.FormAdd.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\OrderAPP\obj\Debug\OrderAPP.FormDetails.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework12\OrderAPP\bin\Debug\OrderAPP.exe.config
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework12\OrderAPP\bin\Debug\OrderAPP.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework12\OrderAPP\bin\Debug\OrderAPP.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework12\OrderAPP\obj\Debug\OrderAPP.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework12\OrderAPP\obj\Debug\OrderAPP.OrderAPP.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework12\OrderAPP\obj\Debug\OrderAPP.FormAdd.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework12\OrderAPP\obj\Debug\OrderAPP.FormDetails.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework12\OrderAPP\obj\Debug\OrderAPP.Properties.Resources.resources
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework12\OrderAPP\obj\Debug\OrderAPP.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework12\OrderAPP\obj\Debug\OrderAPP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework12\OrderAPP\obj\Debug\OrderAPP.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework12\OrderAPP\obj\Debug\OrderAPP.pdb

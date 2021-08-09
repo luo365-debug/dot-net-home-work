@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator2\bin\Debug\Calculator2.exe
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator2\obj\Debug\Calculator2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator2\obj\Debug\Calculator2.Calculator.resources
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator2\obj\Debug\Calculator2.exe
+C:\Users\PC\Desktop\软件构造基础\作业\HOMEWORK\homework1\Calculator2\obj\Debug\Calculator2.pdb

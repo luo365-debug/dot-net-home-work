@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\bin\Debug\netcoreapp3.1\homework2.2.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\bin\Debug\netcoreapp3.1\homework2.2.deps.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\bin\Debug\netcoreapp3.1\homework2.2.runtimeconfig.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\bin\Debug\netcoreapp3.1\homework2.2.runtimeconfig.dev.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\bin\Debug\netcoreapp3.1\homework2.2.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\bin\Debug\netcoreapp3.1\homework2.2.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\obj\Debug\netcoreapp3.1\homework2.2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\obj\Debug\netcoreapp3.1\homework2.2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\obj\Debug\netcoreapp3.1\homework2.2.AssemblyInfo.cs
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\obj\Debug\netcoreapp3.1\homework2.2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\obj\Debug\netcoreapp3.1\homework2.2.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\obj\Debug\netcoreapp3.1\homework2.2.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\homework2.2\obj\Debug\netcoreapp3.1\homework2.2.genruntimeconfig.cache

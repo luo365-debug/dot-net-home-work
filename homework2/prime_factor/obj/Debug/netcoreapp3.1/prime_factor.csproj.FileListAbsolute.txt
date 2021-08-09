@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\bin\Debug\netcoreapp3.1\prime_factor.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\bin\Debug\netcoreapp3.1\prime_factor.deps.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\bin\Debug\netcoreapp3.1\prime_factor.runtimeconfig.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\bin\Debug\netcoreapp3.1\prime_factor.runtimeconfig.dev.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\bin\Debug\netcoreapp3.1\prime_factor.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\bin\Debug\netcoreapp3.1\prime_factor.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\obj\Debug\netcoreapp3.1\prime_factor.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\obj\Debug\netcoreapp3.1\prime_factor.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\obj\Debug\netcoreapp3.1\prime_factor.AssemblyInfo.cs
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\obj\Debug\netcoreapp3.1\prime_factor.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\obj\Debug\netcoreapp3.1\prime_factor.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\obj\Debug\netcoreapp3.1\prime_factor.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\prime_factor\obj\Debug\netcoreapp3.1\prime_factor.genruntimeconfig.cache

@@ -1,0 +1,39 @@
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\bin\Debug\netcoreapp3.1\订单管理.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\bin\Debug\netcoreapp3.1\订单管理.deps.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\bin\Debug\netcoreapp3.1\订单管理.runtimeconfig.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\bin\Debug\netcoreapp3.1\订单管理.runtimeconfig.dev.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\bin\Debug\netcoreapp3.1\订单管理.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\bin\Debug\netcoreapp3.1\订单管理.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\obj\Debug\netcoreapp3.1\订单管理.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\obj\Debug\netcoreapp3.1\订单管理.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\obj\Debug\netcoreapp3.1\订单管理.AssemblyInfo.cs
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\obj\Debug\netcoreapp3.1\订单管理.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\obj\Debug\netcoreapp3.1\订单管理.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\obj\Debug\netcoreapp3.1\订单管理.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5\订单管理\obj\Debug\netcoreapp3.1\订单管理.genruntimeconfig.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\bin\Debug\netcoreapp3.1\订单管理.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\bin\Debug\netcoreapp3.1\订单管理.deps.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\bin\Debug\netcoreapp3.1\订单管理.runtimeconfig.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\bin\Debug\netcoreapp3.1\订单管理.runtimeconfig.dev.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\bin\Debug\netcoreapp3.1\订单管理.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\bin\Debug\netcoreapp3.1\订单管理.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.AssemblyInfo.cs
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.genruntimeconfig.cache
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\bin\Debug\netcoreapp3.1\订单管理.exe
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\bin\Debug\netcoreapp3.1\订单管理.deps.json
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\bin\Debug\netcoreapp3.1\订单管理.runtimeconfig.json
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\bin\Debug\netcoreapp3.1\订单管理.runtimeconfig.dev.json
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\bin\Debug\netcoreapp3.1\订单管理.dll
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\bin\Debug\netcoreapp3.1\订单管理.pdb
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.csproj.AssemblyReference.cache
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.AssemblyInfoInputs.cache
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.AssemblyInfo.cs
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.csproj.CoreCompileInputs.cache
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.dll
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.pdb
+D:\WHU_study\软件构造基础\dot-net-home-work\homework5 6 8\订单管理\obj\Debug\netcoreapp3.1\订单管理.genruntimeconfig.cache

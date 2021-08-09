@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\obj\Debug\netcoreapp3.1\Toeplitz_matrix.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\obj\Debug\netcoreapp3.1\Toeplitz_matrix.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\obj\Debug\netcoreapp3.1\Toeplitz_matrix.AssemblyInfo.cs
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\obj\Debug\netcoreapp3.1\Toeplitz_matrix.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\bin\Debug\netcoreapp3.1\Toeplitz_matrix.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\bin\Debug\netcoreapp3.1\Toeplitz_matrix.deps.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\bin\Debug\netcoreapp3.1\Toeplitz_matrix.runtimeconfig.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\bin\Debug\netcoreapp3.1\Toeplitz_matrix.runtimeconfig.dev.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\bin\Debug\netcoreapp3.1\Toeplitz_matrix.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\bin\Debug\netcoreapp3.1\Toeplitz_matrix.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\obj\Debug\netcoreapp3.1\Toeplitz_matrix.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\obj\Debug\netcoreapp3.1\Toeplitz_matrix.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework2\Toeplitz_matrix\obj\Debug\netcoreapp3.1\Toeplitz_matrix.genruntimeconfig.cache

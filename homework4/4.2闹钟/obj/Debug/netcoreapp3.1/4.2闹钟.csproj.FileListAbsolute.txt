@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\bin\Debug\netcoreapp3.1\4.2闹钟.exe
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\bin\Debug\netcoreapp3.1\4.2闹钟.deps.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\bin\Debug\netcoreapp3.1\4.2闹钟.runtimeconfig.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\bin\Debug\netcoreapp3.1\4.2闹钟.runtimeconfig.dev.json
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\bin\Debug\netcoreapp3.1\4.2闹钟.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\bin\Debug\netcoreapp3.1\4.2闹钟.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\obj\Debug\netcoreapp3.1\4.2闹钟.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\obj\Debug\netcoreapp3.1\4.2闹钟.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\obj\Debug\netcoreapp3.1\4.2闹钟.AssemblyInfo.cs
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\obj\Debug\netcoreapp3.1\4.2闹钟.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\obj\Debug\netcoreapp3.1\4.2闹钟.dll
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\obj\Debug\netcoreapp3.1\4.2闹钟.pdb
+C:\Users\PC\Desktop\软件构造基础\dot-net-home-work\homework4\4.2闹钟\obj\Debug\netcoreapp3.1\4.2闹钟.genruntimeconfig.cache
